@@ -1,3 +1,11 @@
+![logo](https://i.ibb.co/RgwWdgm/shutterstock-1110900704-scaled.jpg)
+
+![version](https://img.shields.io/badge/Version-Alpha--0.0.1-blue)
+![issues](https://img.shields.io/github/issues/Alexander-Zadorozhnyy/ml-practices)
+![forks](https://img.shields.io/github/forks/Alexander-Zadorozhnyy/ml-practices)
+![stars](https://img.shields.io/github/stars/Alexander-Zadorozhnyy/ml-practices)
+![license](https://img.shields.io/github/license/Alexander-Zadorozhnyy/ml-practices)
+
 # Machine Learning Self-Project and Tutorials
 
 This repository contains my machine learning self-project and tutorials. It serves as a learning resource for anyone interested in exploring machine learning concepts and applying them to real-world problems.
